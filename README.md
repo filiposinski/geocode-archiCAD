@@ -20,4 +20,4 @@ This very early pre-alpha version already allows you convert the file. To do it,
 
 #### ISSUES TO FIX
 - For now, the downloaded file have *.txt extension, but you can change it very easly.
-- The app is crashing during reading larger files, so it is recommend to import smaller files with the maximum 1 milion of geocode lines.  
+- The app is crashing during the reading a larger file, so it is recommend to import smaller file with the maximum 1 milion of geocode lines. If your file have much more lines, you can divide it to a smaller parts and convert each separately and afterwards join it together again.
