@@ -14,5 +14,6 @@ We decided to make the app which will solve this problem and allow you to import
 
 ## HOW IT WORKS
 
-0.1 pre-alpha version
+### 0.1 pre-alpha version
 
+This very early pre-alpha version already allows you convert the file. To do it, add the file by click "choose the file". Then, wait till the text will appear in the textarea. After that, click "save" button and your converted file will be downloaded to your "downloads" folder.
