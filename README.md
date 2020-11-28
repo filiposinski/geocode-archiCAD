@@ -16,4 +16,8 @@ We decided to make the app which will solve this problem and allow you to import
 
 ### 0.1 pre-alpha version
 
-This very early pre-alpha version already allows you convert the file. To do it, add the file by click "choose the file". Then, wait till the text will appear in the textarea. After that, click "save" button and your converted file will be downloaded to your "downloads" folder.
+This very early pre-alpha version already allows you convert the file. To do it, add the file by click "choose the file". Then, wait till the text will appear in the textarea. After that, click "save" button and your converted file will be downloaded to your "downloads" folder. 
+
+#### ISSUES TO FIX
+- For now, the downloaded file have *.txt extension, but you can change it very easly.
+- The app is crashing during reading larger files, so it is recommend to import smaller files with the maximum 1 milion of geocode lines.  
